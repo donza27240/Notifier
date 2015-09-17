@@ -1,0 +1,12 @@
+.button,.button2{
+  color:#FFF;
+  background:#444;
+  padding:20px;
+  width:200px;
+}
+.button .inner{
+  color:#F00;
+}
+#btn1{
+
+}
